@@ -346,17 +346,6 @@ body:not(.loading) #team_menu.active {
   border-color: #b5bd68;
 }
 
-.message_pane_scroller:after {
-  display: block;
-  content: '';
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  width: 170px;
-  height: 300px;
-  background: url("https://cdn.rawgit.com/wdiazux/slack-tomorrow-theme/master/background.png") no-repeat bottom right;
-  background-size: contain;
-}
 
 .p-message_pane__unread_banner__banner,
 .p-message_pane__unread_banner__close--detached {
