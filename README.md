@@ -1,6 +1,6 @@
 # Slack Tomorrow Theme
 
-A slack theme using Tomorrow Night colors
+A slack theme using dark themed colors.
 
 # Installation
 
